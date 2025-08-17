@@ -1,3 +1,5 @@
-This is my another commit 3!
-
+This is my another commit 1!
+gi
 And here we go with commit #2.
+
+and another addition 3!
